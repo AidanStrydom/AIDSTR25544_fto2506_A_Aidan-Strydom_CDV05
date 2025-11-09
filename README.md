@@ -7,7 +7,7 @@ It showcases personal information, projects, and contact details.
 
 - **About Section:** Includes a profile photo and a short bio.
 - **Projects Section:** Displays projects with images, descriptions, technologies used, and links.
-- **Contact Section:** Contains emailand GitHub.
+- **Contact Section:** Contains email and GitHub.
 - **Responsive Design:** Works well on desktop and mobile devices.
 - **Full-page Layout:** Header, main content, and footer stretch to fill the page.
 - **Centered Content:** All sections are centered for a clean, modern look.
